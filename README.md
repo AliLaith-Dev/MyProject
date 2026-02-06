@@ -1,3 +1,3 @@
 # MyProject
 Test Repo.
-Hi, This My First Repo
+Hi, This is My First Repo
